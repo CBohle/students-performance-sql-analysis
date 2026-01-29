@@ -1,0 +1,41 @@
+# Power BI Dashboard – Academic Performance Analysis
+
+This dashboard explores how **socio-educational factors** relate to students’ academic performance.
+
+The analysis focuses on identifying patterns and differences associated with:
+- Parental level of education
+- Type of lunch
+- Gender
+
+The objective is to present insights in a **clear, visually intentional, and decision-oriented** way.
+
+---
+
+## Key Insights
+
+- Students whose parents have higher levels of education tend to show **better average academic performance**.
+- Differences in performance are also observed based on **type of lunch**, suggesting a potential link with socio-economic context.
+- Gender shows comparatively smaller variations in performance.
+
+---
+
+## Tools & Technologies
+
+- **Power BI** – Data visualization and dashboard design  
+- **DAX** – Measures and calculations  
+- **Azure SQL** – Data storage and querying  
+
+---
+
+## Design Approach
+
+- Limited color palette to ensure visual consistency and focus  
+- One primary KPI to anchor the narrative  
+- Selective color emphasis to guide interpretation  
+- Clean layout optimized for readability and storytelling
+
+---
+
+## Files
+
+- `dashboard_rendimiento_academico.pdf` – Exported version of the Power BI dashbo
